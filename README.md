@@ -27,6 +27,6 @@ rapidly growing class of small-scale language models
 
 # Quick-start
 TODO
-# Acknowledgments
+# acknowledgements
 This project is supported by the European Union’s HORIZON Research and Innovation Programme under grant agreement No. 101120657, project ENFIELD (European Lighthouse to Manifest Trustworthy and Green AI) <br>
 <img src="https://www.enfield-project.eu/sites/default/files/Enfield_logo.png" alt="Logo" width="200">
