@@ -1,1 +1,26 @@
-# JailBreakSegmentation
+# Small but Dangerous: Evaluating and Mitigating Jailbreak Vulnerabilities in Small Language Models
+This repository host the dataset and experimental data presented in the paper.
+
+# 📖 Abstract
+
+Small language models (SLMs) are gaining traction as at-
+tractive alternatives to large-scale LLMs due to their low computational
+cost, suitability for on-device inference, and reduced environmental foot-
+print. As efforts intensify to compress and distill powerful language ca-
+pabilities into smaller architectures, SLMs are increasingly deployed in
+edge devices, embedded systems, and offline applications. However, the
+safety and alignment properties of these models remain underexplored.
+In this work, we identify and characterise a critical blind spot: the mis-
+alignment of SLMs and their vulnerability to unsafe behaviour and jail-
+break attacks. We introduce a two-phase evaluation pipeline: first, we
+test a suite of direct malicious prompts against a range of SLMs; sec-
+ondly, we apply more sophisticated, tailored jailbreak attacks typically
+used to circumvent the safety filters of larger, more aligned models. No-
+tably, some SLMs that initially appear safe under naive testing, turn
+out to be highly susceptible to jailbreak prompts—revealing a discrep-
+ancy between perceived and actual safety. To address this, we propose
+a lightweight mitigation strategy tailored for resource-constrained mod-
+els, capable of intercepting jailbreak attempts at inference time without
+requiring retraining. Our findings underscore the urgent need to extend
+safety auditing, evaluation benchmarks, and mitigation strategies to the
+rapidly growing class of small-scale language models
