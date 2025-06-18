@@ -24,3 +24,9 @@ els, capable of intercepting jailbreak attempts at inference time without
 requiring retraining. Our findings underscore the urgent need to extend
 safety auditing, evaluation benchmarks, and mitigation strategies to the
 rapidly growing class of small-scale language models
+
+# Quick-start
+TODO
+# Acknowledgments
+This project is supported by the European Union’s HORIZON Research and Innovation Programme under grant agreement No. 101120657, project ENFIELD (European Lighthouse to Manifest Trustworthy and Green AI) <br>
+<img src="https://www.enfield-project.eu/sites/default/files/Enfield_logo.png" alt="Logo" width="200">
