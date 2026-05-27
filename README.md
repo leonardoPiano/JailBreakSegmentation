@@ -162,7 +162,20 @@ print(best_answer)
 
 ---
 
+## Cite Us
 
+If you use this project in your research, please cite:
+
+```bibtex
+@inproceedings{piano2025small,
+  title={Small but dangerous: Evaluating and mitigating jailbreak vulnerabilities in small language models},
+  author={Piano, Leonardo and Battistin, Claudia and Abeele, Jeriek Van den and Pompianu, Livio},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={500--516},
+  year={2025},
+  organization={Springer}
+}
+```
 
 # 🙏 Acknowledgements
 
